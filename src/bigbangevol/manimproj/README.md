@@ -8,3 +8,6 @@ manim -pql 04-anim-bigbangtimeline-v0.py BigBangTimeline
 manim -pql 04-anim-bigbangtimeline-v0.py GalaxiesFormation
 manim -pql 04-anim-bigbangtimeline-v0.py BigBangTimeline GalaxiesFormation
 manim -pql 05-anim-timelineunivers-v0.py TimelineUnivers
+manim -pql 06-anim-frameboxlatex.py MovingFrameBox
+manim -pql 07-OpeningManim.py OpeningManim
+manim -pql 08-SinCurveUnitCircle.py SineCurveUnitCircle
