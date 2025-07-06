@@ -13,3 +13,6 @@ manim -pql 07-OpeningManim.py OpeningManim
 manim -pql 08-SinCurveUnitCircle.py SineCurveUnitCircle
 manim -pql 09-fixed-3DSurface.py ThreeDSurfacePlot
 manim -pql 10-anim-argminfunc.py
+manim -pql 11-anim-fullbigbangtimeline.py ScaleFactorTimeline
+--disable_caching
+manim -pql 11-anim-scale_factor_timeline.py ScaleFactorTimeline --disable_caching
