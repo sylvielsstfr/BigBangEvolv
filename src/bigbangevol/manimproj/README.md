@@ -11,3 +11,5 @@ manim -pql 05-anim-timelineunivers-v0.py TimelineUnivers
 manim -pql 06-anim-frameboxlatex.py MovingFrameBox
 manim -pql 07-OpeningManim.py OpeningManim
 manim -pql 08-SinCurveUnitCircle.py SineCurveUnitCircle
+manim -pql 09-fixed-3DSurface.py ThreeDSurfacePlot
+manim -pql 10-anim-argminfunc.py
